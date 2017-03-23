@@ -14,6 +14,7 @@
 * parse extracted metadata and outlinks
 * update nutchDB with new outlinks
 * Pig Loadfunc transforms nutchDB to readable text file form
+* Create table and manage data by Hive
 
 ### Command Line
 * git clone 
