@@ -47,9 +47,8 @@ hadoop fs -text file:///xxxxxx/nutchdb/segments/xxxxx/parse_data/part-00000/data
 patch -p1 < fixskew.patch
 ```
 * uplode seeds file and run web scrawler in AWS EMR
-```
-![IMG](https://github.com/ly16/GooglePlay-Web-Crawler/blob/master/results/Screen%20Shot%202017-03-23%20at%2012.39.58%20AM.png)
-```
+![emr](https://github.com/ly16/GooglePlay-Web-Crawler/blob/master/results/Screen%20Shot%202017-03-23%20at%2012.39.58%20AM.png?raw=true)
+
 * Aws S3
 ```
 register target/nutchdbloader-0.0.1-SNAPSHOT.jar
