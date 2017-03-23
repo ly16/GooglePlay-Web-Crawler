@@ -48,7 +48,7 @@ patch -p1 < fixskew.patch
 ```
 * uplode seeds file and run web scrawler in AWS EMR
 ```
-![EMR](https://github.com/ly16/GooglePlay-Web-Crawler/blob/master/results/Screen%20Shot%202017-03-23%20at%2012.39.58%20AM.png)
+![IMG](https://github.com/ly16/GooglePlay-Web-Crawler/blob/master/results/Screen%20Shot%202017-03-23%20at%2012.39.58%20AM.png)
 ```
 * Aws S3
 ```
